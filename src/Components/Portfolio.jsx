@@ -34,7 +34,7 @@ const projectList = [
     title: "CUATAS, the brand where I'm a co-founder",
     description:
       "CUATAS is a brand that sells personalized products, satisfying the client desires. I'm in charge of the social media and working process.",
-    url: "https://www.facebook.com/cuatas.mx",
+    url: "https://www.facebook.com/people/Cuatas/61553703365388/",
   },
   {
     title: "My Resume Site",
