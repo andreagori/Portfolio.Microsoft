@@ -28759,7 +28759,7 @@ const imageAltText = "desktop with books and laptop";
     {
         title: "CUATAS, the brand where I'm a co-founder",
         description: "CUATAS is a brand that sells personalized products, satisfying the client desires. I'm in charge of the social media and working process.",
-        url: "https://www.facebook.com/cuatas.mx"
+        url: "https://www.facebook.com/people/Cuatas/61553703365388/"
     },
     {
         title: "My Resume Site",
@@ -28881,6 +28881,6 @@ $RefreshReg$(_c, "Portfolio");
 },{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/roman-synkevych-vXInUOv1n84-unsplash.jpg":"f27s6","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"f27s6":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "roman-synkevych-vXInUOv1n84-unsplash.9a5102a9.jpg" + "?" + Date.now();
 
-},{"./helpers/bundle-url":"lgJ39"}],"lW6qc":[function() {},{}]},["1xC6H","ShInH","8lqZg"], "8lqZg", "parcelRequire6158")
+},{"./helpers/bundle-url":"lgJ39"}],"lW6qc":[function() {},{}]},["1xC6H","ShInH","8lqZg"], "8lqZg", "parcelRequireef0b")
 
 //# sourceMappingURL=index.975ef6c8.js.map
