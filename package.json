@@ -1,13 +1,13 @@
 {
-  "name": "Andrea Rivas Gomez-Portfolio",
+  "name": "andreagori",
   "version": "1.0.0",
   "description": "AIt's Andrea Rivas Gomez's Portfolio",
   "source": "src/index.html",
-  "homepage": "https://andreagori.github.io/Microsoft.Portfolio",
+  "homepage": "https://andreagori.github.io/Portfolio.Microsoft",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://andreagori.github.io/Microsoft.Portfolio'",
+    "build-gh": "parcel build --public-url 'https://andreagori.github.io/Portfolio.Microsoft'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
