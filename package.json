@@ -1,7 +1,7 @@
 {
-  "name": "Andrea Rivas Gomez's Portfolio",
+  "name": "educator-js-codespace-template",
   "version": "1.0.0",
-  "description": "AIt's Andrea Rivas Gomez's Portfolio",
+  "description": "It's Andrea Rivas Gomez's Portfolio",
   "source": "src/index.html",
   "homepage": "https://andreagori.github.io/Portfolio.Microsoft",
   "scripts": {
