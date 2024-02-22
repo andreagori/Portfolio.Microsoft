@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://andreagori.github.io/Microsoft.Portfolio",
+  "homepage": "https://andreagori.github.io/My-Microsoft.Portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
