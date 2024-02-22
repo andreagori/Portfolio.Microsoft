@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "AIt's Andrea Rivas Gomez's Portfolio",
   "source": "src/index.html",
-  "homepage": "https://andreagori.github.io/My-Microsoft.Portfolio",
+  "homepage": "https://andreagori.github.io/Microsoft.Portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
