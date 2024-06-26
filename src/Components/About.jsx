@@ -24,13 +24,14 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a software engineer student studying at Universidad Autonoma de Baja California. I enjoy creating and learning more about code in creative ways.";
+  "I'm a software and Emergent Technologies Engineer student at Universidad Autonoma de Baja California. I'm currently learning C, C++, Python, Java, and Web development in my free time.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = ["Marketing", "Social Media design", "fast reader", "still learning"];
+
+const skillsList = ["C", "C++", "Python", "Social Media design","Learning Data Analytics, Java and Web Development"];
 
 /**
  * Use this to give more information about what you are passionate about,

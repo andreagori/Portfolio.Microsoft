@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Andrea Rivas Gomez",
-  title: "Software Student & Content Creator",
+  title: "Software and Emergent Technologies Engineer Student",
   email: "andrearivassg@gmail.com",
   gitHub: "andreagori",
   instagram: "itsandreagori",
