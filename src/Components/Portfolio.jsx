@@ -12,12 +12,6 @@ import React from "react";
 
 /**
  * Desk image
- *
- * Below is a sample desk image. Feel free to update this to an image of your choice,
- * updating below imageAltText to string that represents what you see in that image.
- *
- * Need an image? Check out https://unsplash.com to download a photo you
- * freely use on your site.
  */
 import image from "../images/roman-synkevych-vXInUOv1n84-unsplash.jpg";
 
@@ -42,12 +36,36 @@ const projectList = [
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and resume.",
     url: "https://andreagori.github.io/git-resume-showcase/",
   },
+  {
+    title: "Estilist",
+    description:
+      "...",
+    url: "",
+  },
+  {
+    title: "CodeFront",
+    description:
+      "...",
+    url: "",
+  },
+  {
+    title: "PetCare",
+    description:
+      "...",
+    url: "",
+  },
+  {
+    title: "SignMatch",
+    description:
+      "...",
+    url: "",
+  },
 ];
 
 const Portfolio = () => {
   return (
-    <section className="padding" id="portfolio">
-      <h2 style={{ textAlign: "center" }}>Portfolio</h2>
+    <section className="padding" id="portfolio" style={{ backgroundColor: "rgb(14, 14, 16)" }}>
+      <h2 style={{ textAlign: "center", color: "white" }}>Portfolio</h2>
       <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
@@ -62,7 +80,7 @@ const Portfolio = () => {
               <a href={project.url} target="_blank" rel="noopener noreferrer">
                 <h3 style={{ flexBasis: "40px" }}>{project.title}</h3>
               </a>
-              <p className="small">{project.description}</p>
+              <p className="small" style={{color:"white"}}>{project.description}</p>
             </div>
           ))}
         </div>

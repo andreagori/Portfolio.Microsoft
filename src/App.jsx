@@ -29,7 +29,7 @@ const siteProps = {
   email: "andrearivassg@gmail.com",
   gitHub: "andreagori",
   instagram: "itsandreagori",
-  linkedIn: "andrearivassg",
+  linkedIn: "andrea-rivas-a6391a273",
   medium: "",
   twitter: "",
   youTube: "",

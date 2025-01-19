@@ -8,13 +8,6 @@ import React from "react";
 
 /**
  * About background image
- *
- * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that
- * represents what you see in that image.
- *
- * Need an image? Check out https://unsplash.com to download a image you
- * freely use on your site.
  */
 import image from "../images/sr.images.wallpaper.jpg";
 
@@ -24,22 +17,17 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a software and Emergent Technologies Engineer student at Universidad Autonoma de Baja California. I'm currently learning C, C++, Python, Java, and Web development in my free time.";
+  "I'm a student of Software Engineering and Emerging Technologies at the Autonomous University of Baja California. Currently, I am looking to have experience in the area of ​​software development as a Back-End, data analyst, but open to opportunities to nurture my knowledge and enthusiastically contribute my grain of sand.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 
-const skillsList = ["C", "C++", "Python", "Social Media design","Learning Data Analytics, Java and Web Development"];
+const skillsList = ["C", "C++", "Python", "Java", "SQL", "Learning Data Analytics and Web Development"];
 
-/**
- * Use this to give more information about what you are passionate about,
- * how you best work, or even a quote. This will help someone learn more
- * about you on a professional level.
- */
 const detailOrQuote =
-  "I am very intested about the way we're going to solve actual problems and new ones. By studying my career I look forward to continually learn deeply how to code to help with intuitive implementation of the technology in the problems of this generation and those that follow.";
+  "I am deeply committed to advancing my skills in software development, as reflected in the courses and certifications I have completed. My goal is to create intuitive solutions that address real-world needs and contribute to making technology more accessible and impactful.";
 
 const About = () => {
   return (

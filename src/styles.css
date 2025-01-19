@@ -64,6 +64,11 @@ h3 {
   font-weight: 400;
   font-size: 1.25rem;
   margin: 0;
+  color: white;
+}
+
+h3:hover {
+  color: red;
 }
 
 p {
@@ -90,16 +95,16 @@ li {
 }
 
 li::marker {
-  color: #4e567e;
+  color: red;
 }
 
 a {
-  color: black;
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 
 a:hover {
-  color: #4e567e;
+  color: #ff2727;
 }
 
 .container {
